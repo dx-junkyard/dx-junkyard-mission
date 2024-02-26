@@ -1,14 +1,10 @@
 # ビジョンステートメント / Vision Statement
 
-dx-junkyardは、最先端の情報技術と包括的な協働を通じて自律的なコミュニティ間のネットワーキングを深化させ、私たちの社会が持つ創造力と革新のポテンシャルを最大限に引き出します。
+dx-junkyardは、プログラミングからマーケティングまでの幅広いスキルと、スタートアップや公共プロジェクトへの参画などの経験を共有し、新たなコミュニティの形成とネットワーキングを促進します。
 
-dx-junkyard deepens the networking between autonomous communities through cutting-edge information technology and comprehensive collaboration, maximizing the creativity and innovation potential of our society.
+dx-junkyard promotes the formation of new communities and networking by sharing a wide range of skills from programming to marketing, and experiences in participating in startups and public projects.
 
-私たちのビジョンでは、シビックテックが生活のあらゆる側面に深く組み込まれ、誰もが自らの課題に応じたコミュニティを自由に立ち上げ、参加できる未来を目指します。
+私たちのビジョンは、技術共有やコラボレーションを通じて、互いに学び、支援し合うことにより包摂的な社会を実現することです。技術共有や共同プロジェクトを後押しすることで、人々が直面する課題を起点に形成された小さなコミュニティが有機的に繋がり、この社会に所属する全員が参加できる創造力と革新性に満ちた社会へと変革させます。
 
-In our vision, civic tech is deeply integrated into all aspects of life, aiming for a future where everyone can freely launch and participate in communities according to their own challenges.
-
-この力強いコミュニティネットワークを通じて、知識の共有、技術の普及、そして社会的課題の解決を加速させ、全ての人が参加し、互いに学び、支援し合うことで、より公平で包括的な社会を実現します。
-
-Through this robust community network, we accelerate the sharing of knowledge, the spread of technology, and the solving of social challenges, realizing a more equitable and inclusive society where everyone participates, learns from each other, and supports one another.
+Our vision is to realize an inclusive society by learning and supporting each other through technology sharing and collaboration. By encouraging technology sharing and joint projects, small communities formed around the challenges people face will organically connect, transforming into a society filled with creativity and innovation, where everyone belonging to this society can participate.
 
