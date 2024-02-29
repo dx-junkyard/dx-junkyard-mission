@@ -1,13 +1,13 @@
 # ミッションステートメント / Mission Statement
 
-dx-junkyardは、情報技術を用いて社会的課題に創造的に取り組み、試行錯誤のプロセスから生まれる知識と成果を共有することで、自律的なコミュニティの形成と発展を促進します。
+dx-junkyardは、「ジャンクヤード」――過去の試みで積み上げられたアイデアや失敗――から、再利用可能なリソースと知識を再発見し、新しい価値を創造する精神を核として掲げます。私たちは、情報技術を活用して社会的課題に創造的に取り組み、その過程で得た学びと成果を共有することで、自立したコミュニティの形成と成長を促します。
 
-dx-junkyard creatively addresses social challenges using information technology, promoting the formation and development of autonomous communities by sharing the knowledge and outcomes that emerge from the process of trial and error.
+dx-junkyard champions the spirit of the "junkyard" — rediscovering reusable resources and knowledge from past attempts and failures — to create new value. We leverage information technology to creatively address societal challenges, sharing the learnings and outcomes from this process to foster and grow autonomous communities.
 
-私たちは、"ジャンクヤード"――過去の試みから積み上げられたアイデアや失敗から、再利用可能な資源とナレッジを掘り起こし、それらを基に人々が自由に発想し、実現できる環境を提供します。
+私たちの使命は、多様なスキルセットと経験を共有することにより、互いに学び、支援し合う環境を提供することです。これにより、技術共有やコラボレーションを後押しし、小さなコミュニティが自然と連携する、創造性と革新性に満ちた社会の実現に貢献します。
 
-We unearth reusable resources and knowledge from the "junkyard" – the accumulation of past attempts, ideas, and failures – and provide an environment where people can freely imagine and realize new possibilities based on these resources.
+Our mission is to provide an environment where individuals learn from and support each other by sharing a diverse set of skills and experiences. This facilitates technology sharing and collaboration, encouraging small communities to naturally connect, contributing to the realization of a society filled with creativity and innovation.
 
-シビックテックの枠組みを活用して、個人やグループが共通の目的や関心事に基づいたネットワークを自然に形成できるよう支援し、このプロセスを通じて、より公平で包括的な社会への道を拓きます。
+私たちは、各個人が自らの課題、スキル、知識を積極的に共有し、その過程で社会で生じる課題に各個人・コミュニティが対応できる力を育むことを目指します。このアプローチにより、私たちは多様性と包摂性を両立できる社会の構築を目指します。
 
-Leveraging the framework of civic tech, we support individuals and groups in naturally forming networks based on common goals and interests, paving the way to a more equitable and inclusive society through this process.
+We aim to empower every individual to actively share their challenges, skills, and knowledge, cultivating the ability to address societal issues throughout this process. Through this approach, we strive to build a society where diversity and inclusivity can coexist, aiming for the construction of a society that balances diversity and inclusivity.
