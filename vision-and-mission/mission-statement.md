@@ -1,6 +1,6 @@
 # ミッションステートメント / Mission Statement
 
-dx-junkyardは、「ジャンクヤード」――過去の試みで積み上げられたアイデアや失敗――から、再利用可能なリソースと知識を再発見し、新しい価値を創造する精神を核として掲げます。私たちは、情報技術を活用して社会的課題に創造的に取り組み、その過程で得た学びと成果を共有することで、自立したコミュニティの形成と成長を促します。
+dx-junkyardは、「ジャンクヤード」――過去の試みで積み上げられたアイデアや失敗――から、再利用可能なリソースと知識を再発見し、新しい価値を創造する精神を大切にしています。私たちは、情報技術を活用して社会的課題に創造的に取り組み、その過程で得た学びと成果を共有することで、自立したコミュニティの形成と成長を促します。
 
 dx-junkyard champions the spirit of the "junkyard" — rediscovering reusable resources and knowledge from past attempts and failures — to create new value. We leverage information technology to creatively address societal challenges, sharing the learnings and outcomes from this process to foster and grow autonomous communities.
 
