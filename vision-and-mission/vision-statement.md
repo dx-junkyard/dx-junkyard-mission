@@ -1,10 +1,7 @@
-# ビジョンステートメント / Vision Statement
+## ビジョンステートメント / Vision Statement
+**小さな熱源が有機的につながり、変革が連鎖する社会へ。**
 
-dx-junkyardは、プログラミングからマーケティングまでの幅広いスキルと、スタートアップや公共プロジェクトへの参画などの経験を共有し、新たなコミュニティの形成とネットワーキングを促進します。
+私たちが目指すのは、技術や知見の共有を通じて、小さなコミュニティが草の根でつながり合う包摂的な社会です。属性や場所を問わず、誰もが創造性を発揮できる環境を整えることで、社会の課題を希望へと変えていく未来を実現します。
 
-dx-junkyard promotes the formation of new communities and networking by sharing a wide range of skills from programming to marketing, and experiences in participating in startups and public projects.
-
-私たちのビジョンは、技術共有やコラボレーションを通じて、互いに学び、支援し合うことにより包摂的な社会を実現することです。技術共有や共同プロジェクトを後押しすることで、人々が直面する課題を起点に形成された小さなコミュニティが有機的に繋がり、この社会に所属する全員が参加できる創造力と革新性に満ちた社会へと変革させます。
-
-Our vision is to realize an inclusive society by learning and supporting each other through technology sharing and collaboration. By encouraging technology sharing and joint projects, small communities formed around the challenges people face will organically connect, transforming into a society filled with creativity and innovation, where everyone belonging to this society can participate.
-
+**A Society of Organic Connections and Cascading Innovation.**
+We envision an inclusive society where small communities connect through shared technology and insights. By creating an environment where everyone can unleash their creativity, we transform societal challenges into seeds of hope.
